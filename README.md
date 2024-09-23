@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis - RNN-GRU Development and Hyperparameter Tuning
+# Twitter Sentiment Analysis - RNN-GRU Development
 
 ## Overview
 This project focuses on the development of a Recurrent Neural Network (RNN) model using Gated Recurrent Units (GRUs) for
