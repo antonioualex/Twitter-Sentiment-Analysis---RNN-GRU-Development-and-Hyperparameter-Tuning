@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis - RNN-GRU Development
 
-## Overview
 This project focuses on the development of a Recurrent Neural Network (RNN) model using Gated Recurrent Units (GRUs) for
 Twitter sentiment analysis, along with hyperparameter tuning. The performance of the RNN-GRU model is compared against two pre-existing models:
 - [Logistic Regression Model (Hyperparameter Tuned)](https://github.com/antonioualex/Tweet-Sentiment-Classifier-with-Machine-Learning-Models)
